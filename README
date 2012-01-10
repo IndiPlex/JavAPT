@@ -1,0 +1,23 @@
+
+JavAPT - Cydia package manager written in Java
+==============================================
+
+http://indiplex.de/
+
+JavAPT is a simple package manager for your iDevice. You can add cydia-repos,
+download packages with dependencies and install them.
+
+This distribution contains:
+- JavAPT.jar
+- startGUI.bat (A simple startscript for windows to display the GUI)
+- lib/sqlitejdbc-v056.jar (Please read the license in the licenses folder)
+- lib/ganymed-ssh2-build251beta1.jar (Please read the license in the licenses folder)
+- lib/commons-compress-1.3.jar (Please read the license in the licenses folder)
+- licenses/commons-compress.LICENSE
+- licenses/ganymed-ssh2.LICENSE
+- licenses/sqlitejdbc.LICENSE
+- licenses/GPL.LICENSE
+- licenses/JavAPT.LICENSE
+
+!!! Please read the NOTICE !!!
+!!! Please read all licenses in the folder "licenses" !!!

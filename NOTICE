@@ -1,0 +1,5 @@
+This software includes software from http://www.cleondris.ch/opensource/ssh2/
+This software includes software from http://commons.apache.org/compress/
+This software includes software from http://www.zentus.com/sqlitejdbc/
+
+Please read the licenses of these softwares. They are in the folder "licenses" 
